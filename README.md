@@ -43,7 +43,7 @@ Sharing your edit history is split into two parts:
 
 ## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4JzoxteFM0Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Lightroom History Recorder Video](https://img.youtube.com/vi/4JzoxteFM0Q/0.jpg)](https://www.youtube.com/watch?v=4JzoxteFM0Q)
 
 This (silent) video shows the full process of recording an edit history from lightroom and rendering it to an MP4.
 
@@ -82,7 +82,7 @@ covering that area at least, and the less desktop clutter which is visible the b
 
 A good layout is to have Lightroom covering the left 80% of your screen and the terminal/command prompt covering the right 20%.
 
-![Example Window Layout]({{ "/images/screenshot-window-layout.jpg" | absolute_url }}){:.color-wheel-example}
+![Example Window Layout](https://i.imgur.com/yOhuO2m.jpg)
 
 
 In the terminal, change to a directory where you want your files to be saved.  In Lightroom, select the earliest history item
@@ -134,7 +134,7 @@ This will produce a file called `session.gif` in the directory.
 
 ### Rendering a Video (MP4)
 
-First you must install (FFmpeg)[https://www.ffmpeg.org/] and make sure it is on your path. You may need to restart your terminal
+First you must install [FFmpeg](https://www.ffmpeg.org/) and make sure it is on your path. You may need to restart your terminal
 if you change your path settings.
 
 Once FFmpeg is on path, then with the terminal in the directory containing the sessions, run the following command:
