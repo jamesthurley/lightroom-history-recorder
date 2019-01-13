@@ -1,19 +1,19 @@
 {
-  "name": "opendarkroom",
+  "name": "lightroom-history-recorder",
   "version": "0.1.17",
-  "description": "Open Darkroom is an open source, multi-platform toolkit for assisting with digital photography post-processing.",
+  "description": "Lightroom History Recorder lets you record the Lightroom history of a photograph to a video or GIF for sharing.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "preferGlobal": true,
   "bin": {
-    "odr": "dist/index.js"
+    "lightroom-history-recorder": "dist/index.js"
   },
   "files": [
     "dist/**/*"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/opendarkroom/toolkit.git"
+    "url": "https://github.com/jamesthurley/lightroom-history-recorder.git"
   },
   "scripts": {
     "prepublishOnly": "npm run clean && npm run build",
@@ -34,7 +34,7 @@
   "author": "James Thurley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/opendarkroom/toolkit/issues"
+    "url": "https://github.com/jamesthurley/lightroom-history-recorder/issues"
   },
   "homepage": "https://opendarkroom.com/",
   "dependencies": {
