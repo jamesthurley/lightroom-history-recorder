@@ -6,7 +6,7 @@ This tool lets you record the Lightroom history of your edits to a photograph an
 
 The following GIF shows an example output of this tool:
 
-[Example GIF](https://i.imgur.com/2KjYIMW.gif)
+[Example GIF](https://i.imgur.com/2KjYIMW.gifv)
 
 (Image credit: u/Morphon on Reddit)
 
