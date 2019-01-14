@@ -2,6 +2,14 @@
 
 [![Build Status](https://travis-ci.com/jamesthurley/lightroom-history-recorder.svg?branch=master)](https://travis-ci.com/jamesthurley/lightroom-history-recorder)
 
+This tool lets you record the Lightroom history of your edits to a photograph and generate a GIF or MP4 showing the sequence of changes. This allows other people to learn from your editing process.
+
+The following GIF shows an example output of this tool:
+
+![Example GIF](https://i.imgur.com/2KjYIMW.gif)
+
+(Image credit: u/Morphon on Reddit)
+
 If you have any problems or suggestions for new features please let me know in an [issue](https://github.com/jamesthurley/lightroom-history-recorder/issues).
 
 ## Installation
@@ -11,7 +19,6 @@ npm install -g lightroom-history-recorder
 ```
 
 See the documentation for more details.
-
 
 ## License
 
