@@ -1,6 +1,6 @@
 # Lightroom History Recorder
 
-[![Build Status](https://travis-ci.org/jamesthurley/lightroom-history-recorder.svg?branch=master)](https://travis-ci.org/jamesthurley/lightroom-history-recorder)
+[![Build Status](https://travis-ci.com/jamesthurley/lightroom-history-recorder.svg?branch=master)](https://travis-ci.com/jamesthurley/lightroom-history-recorder)
 
 If you have any problems or suggestions for new features please let me know in an [issue](https://github.com/jamesthurley/lightroom-history-recorder/issues).
 
@@ -15,10 +15,7 @@ See the documentation for more details.
 
 ## License
 
-Lightroom History Recorder is released under the MIT License. See [LICENSE][1] file for details.
-
-[1]: https://github.com/lightroom-history-recorder/blob/master/LICENSE
-
+Lightroom History Recorder is released under the MIT License. See [LICENSE](LICENSE) file for details.
 
 # Usage
 
